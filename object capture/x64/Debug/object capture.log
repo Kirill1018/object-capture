@@ -1,0 +1,13 @@
+﻿  object capture.cpp
+D:\project\object capture\object capture\object capture.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\project\object capture\object capture\object capture.cpp(23,33): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+D:\project\object capture\object capture\object capture.cpp(23,18): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+  object capture.vcxproj -> D:\project\object capture\x64\Debug\object capture.exe
